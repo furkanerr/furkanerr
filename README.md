@@ -1,6 +1,6 @@
 - ## 👋 Hi, I’m Furkan ER
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning C# - Angular - React
+- 🌱 I’m currently learning React-JavaScript
 - 📫 How to reach me: furkan08_@hotmail.com
 - ✨ [Linkedin Adress](https://www.linkedin.com/in/furkaner0/)✨
 
