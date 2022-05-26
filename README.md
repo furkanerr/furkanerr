@@ -4,6 +4,7 @@
 - 📫 How to reach me: furkan08_@hotmail.com
 - ✨ [Linkedin Adress](https://www.linkedin.com/in/furkaner0/)✨
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=furkanerr&label=Profile%20views&color=0e75b6&style=flat" alt="furkanerr" /> </p>
 <br />
 
 ### Languages and Tools:
