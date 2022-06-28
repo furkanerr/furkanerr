@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React-JavaScript
 - 📫 How to reach me: furkan08_@hotmail.com
 - ✨ [Linkedin Adress](https://www.linkedin.com/in/furkaner0/)✨
-
+<a href = "https://medium.com/@furkanerr/"> <img src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkanerr&label=Profile%20views&color=0e75b6&style=flat" alt="furkanerr" /> </p>
 <br />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furkanerr" alt="furkaner" /></a> </p>
