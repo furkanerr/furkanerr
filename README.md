@@ -1,5 +1,5 @@
 - ## 👋 Hi, I’m Furkan ER
-- 🌱 I’m currently learning React-JavaScript
+- 🌱 I’m currently working with React-Next-JavaScript
 - 📫 How to reach me: furkan08_@hotmail.com
 - ✨ [Linkedin Adress](https://www.linkedin.com/in/furkaner0/)✨
 - <a href = "https://medium.com/@furkanerr/"> <img src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
